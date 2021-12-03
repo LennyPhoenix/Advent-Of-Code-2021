@@ -8,4 +8,5 @@ Note that to keep things interesting, I have opted to use a different language e
 
 - [Day 1 (Python)](day-1/)
 - [Day 2 (Rust)](day-2/)
+- [Day 3 (C)](day-3/)
 
