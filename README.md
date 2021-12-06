@@ -10,3 +10,27 @@ Note that to keep things interesting, I have opted to use a different language e
 - [Day 2 (Rust)](day-2/)
 - [Day 3 (C)](day-3/)
 
+## Language Ideas
+
+- Haskell
+- Java
+- Typescript (I refuse to touch Javascript)
+- Kotlin
+- Lisp (Probably ELisp)
+- C++
+- HolyC (Could be fun, probably won't)
+- Scratch (Could be funny)
+- PHP
+- C#
+- Go
+- Perl
+- Ruby
+- Swift
+- Scala
+- Dart
+- Assembly (Maybe, this will probably be a bad idea)
+- Fortran
+- Shell
+- Lua
+- Forth
+
